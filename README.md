@@ -7,7 +7,7 @@
 ## JMeter Task description
 1) Inside "JMeterTask.docx" file.
 
-## SoapUI Task description
+## SoapUI Task description (Optional task, only when JMeter is not applicable for the candidate)
 1) Inside "SoapUITask.docx" file.
 
 
