@@ -7,9 +7,9 @@
 ## JMeter Task description
 1) Inside "JMeterTask.docx" file.
 
-## SoapUI Task description (Optional task, only when JMeter is not applicable for the candidate)
+## [OPTIONAL] SoapUI Task description (Optional task, only when JMeter is not applicable for the candidate)
 1) Inside "SoapUITask.docx" file.
 
 
 ## Time Box 
-The task should be completed within one week. 
+The tasks should be completed within one week. 
