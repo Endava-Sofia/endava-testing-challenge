@@ -9,7 +9,7 @@
 
 ## [OPTIONAL] SoapUI Task description (Optional task, only when JMeter is not applicable for the candidate)
 1) Inside "SoapUITask.docx" file.
-
+2) Download link: https://www.soapui.org/downloads/soapui.html (Open Source Version)
 
 ## Time Box 
 The tasks should be completed within one week. 
