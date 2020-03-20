@@ -6,6 +6,7 @@
 
 ## JMeter Task description
 1) Inside "JMeterTask.docx" file.
+2) Download link: https://jmeter.apache.org/download_jmeter.cgi
 
 ## [OPTIONAL] SoapUI Task description (Optional task, only when JMeter is not applicable for the candidate)
 1) Inside "SoapUITask.docx" file.
