@@ -26,11 +26,11 @@ Note! Please remove all the compiled/built data, if any.
 	- the items are sorted in the correct manner.
 
 ## Scenario Variant 2
-1.	Implement the tasks written in **Scenario Variant 1** and do the following as well:
-	- Add an ability to filter tests for the test execution 
-	- Add custom reporting for the test execution
-	- Tests need to be able to be executed on multiple environments (dev, testing, staging, etc..), add necessary configurations.
-	- Chrome and Firefox should be supported browsers
+Implement the tasks written in **Scenario Variant 1** and do the following as well
+- Add an ability to filter tests for the test execution 
+- Add custom reporting for the test execution
+- Tests need to be able to be executed on multiple environments (dev, testing, staging, etc..), add necessary configurations.
+- Chrome and Firefox should be supported browsers
 
-#As a bonus, per your choice
-1.	Support different browser resolutions
+## As a bonus, per your choice
+- Support different browser resolutions
