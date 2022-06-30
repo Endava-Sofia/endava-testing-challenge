@@ -11,7 +11,7 @@ The following tools/libraries can be used:
 Organize your solution in a zip archive and send it back. 
 Note! Please remove all the compiled/built data, if any. 
 
-## Variant 1
+## Version 1
 #### Scenario 1
 Use the standard user and password (they are prone to change, think how to obtain them)
 - Log in with the standard user
@@ -30,8 +30,8 @@ Use the standard user and password (they are prone to change, think how to obtai
 - Then the items are sorted in the correct manner
 - Logout from the system
 
-## Variant 2
-Implement the tasks written in **Variant 1** and do the following as well
+## Version 2
+Implement the tasks written in **Version 1** and do the following as well
 - Add an ability to filter tests for the test execution 
 - Add custom HTML report for the test execution
 - Tests will be executed on multiple environments (dev, testing, staging, etc..), add necessary configurations.
