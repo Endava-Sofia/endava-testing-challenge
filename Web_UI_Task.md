@@ -1,4 +1,4 @@
-# Selenium UI Task
+# Web UI Task
 
 ## Description
 
@@ -6,7 +6,8 @@ Use the [following](https://www.saucedemo.com/) public website for your automati
 
 The following tools/libraries can be used:
 * [Selenium](https://www.selenium.dev/)
-* Language of your choice that supports Selenium
+* [Playwright](https://playwright.dev)
+* Language of your choice that supports Selenium/Playwright
 
 Organize your solution in a zip archive and send it back. 
 Note! Please remove all the compiled/built data, if any. 
