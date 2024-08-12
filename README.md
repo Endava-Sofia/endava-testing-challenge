@@ -1,8 +1,8 @@
 # Endava Testing Challenge
 
-## Selenium Task description
+## Web UI Task description
 1) Inside "Selenium_UI_Task.md" file.
-2) You can select any programming language that Selenium WebDriver supports.
+2) You can select any programming language that Selenium WebDriver/Playwright supports.
 
 ## REST API Task description
 1) Inside "REST_API_Task.md" file.
